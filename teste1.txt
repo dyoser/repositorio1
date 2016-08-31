@@ -1,4 +1,8 @@
 linha1
 linha2
 linha3
+<<<<<<< HEAD
 linha7
+=======
+linha4
+>>>>>>> master
